@@ -70,6 +70,10 @@ If local store is used, you may also check Attempt to use WSUS / Windows Update 
 ``Features on Demand `` from the Update Manager window, select an FoD ISO or folder, then click Open Feature Selector to install optional features.
 
 
+<img width="1086" height="693" alt="Screenshot 2026-05-29 175646" src="https://github.com/user-attachments/assets/f0b79ce6-b8ab-4ff1-bc61-80a512668715" />
+<img width="431" height="244" alt="Screenshot 2026-05-29 175548" src="https://github.com/user-attachments/assets/69c01cc9-2cfb-4db7-812a-e76bd99ac7c9" />
+<img width="1086" height="693" alt="Screenshot 2026-05-29 175447" src="https://github.com/user-attachments/assets/c8c244a2-010a-4134-99ef-432a63751455" />
+<img width="786" height="873" alt="Screenshot 2026-05-29 153334" src="https://github.com/user-attachments/assets/70c63485-b76b-44ab-a32f-c570850056ee" />
 
 
 
