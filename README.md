@@ -19,6 +19,11 @@ DimSim Windows Repair is a graphical tool for repairing offline Windows installa
 
 * Windows Update manager for the offline system ```List installed updates, security updates, rollups, and hotfixes + Uninstall or reinstall an update (re‑downloads from Microsoft Update Catalog) + Manually install a KB by downloading it from the Update Catalog (requires PowerShell module MSCatalogLTS) + install .cab packages manually ```
 
+
+### Why DimSim?
+
+I always read the name DISM as DIMSIM, thought it would make for a funny name for this tool, plus the software is kind of like a dimsim.. useful scripts, all wrapped up in a tasty package
+
 ## Requirements
 
 * Windows operating system (the tool runs on Windows 10/11)
